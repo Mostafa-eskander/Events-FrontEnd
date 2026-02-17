@@ -17,7 +17,7 @@ Events App is a modern and responsive event management web application built wit
 
 ## 🌐 Live Demo
 
-👉 **[View Live Project](https://events-front-end.vercel.app/events)**
+👉 **[View Live Project](https://events-front-end.vercel.app)**
 
 ---
 
