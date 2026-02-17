@@ -7,7 +7,6 @@ Events App is a modern and responsive event management web application built wit
 
 - 📆 Browse available events
 - 🔎 View detailed event information
-- 🔐 authentication 
 - ⚡ Fast and responsive performance
 - 📱 Fully responsive design (mobile, tablet, desktop)
 - 🎨 Clean and modern UI
@@ -95,6 +94,8 @@ Then upload the dist folder to Vercel.
 ### 🎯 Future Improvements
 
 - ➕ Add event creation functionality
+- 🔐 Add authentication system
+- ✏️ Add event editing and deletion
 - 🌐 Connect to backend API
 - ❤️ Add favorites feature
 
